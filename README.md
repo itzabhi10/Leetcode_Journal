@@ -9,3 +9,6 @@
 | 2025-07-28 | Sort Array by Increasing Frequency (1636) | Java | [Problem](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/) | [Code](https://github.com/itzabhi10/leetcode-solutions/blob/main/2025_07_28_SortByFreq.java) |
 | 2025-08-02 | Find Occurrences of an Element in an Array (3159) | Java     | [Leetcode 3159](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | [Code](./Java/FindOccurrences.java) |
 | 2025-09-17 | Delete Node in a Linked List (237) | Java | [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Code](./Java/DeleteNode_237.java) |
+| Date       | Problem Title             | Language | Problem Link                                                   | Code Link                                                                              |
+| ---------- | ------------------------- | -------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 2025-09-18 | Reverse Linked List (206) | Java     | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://github.com/itzabhi10/LeetCode/blob/main/Java/ReverseLinkedList206.java) |
